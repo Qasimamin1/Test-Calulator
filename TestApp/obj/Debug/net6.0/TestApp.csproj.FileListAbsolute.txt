@@ -1,0 +1,15 @@
+E:\Asp.net core Certification\TestApp\bin\Debug\net6.0\TestApp.exe
+E:\Asp.net core Certification\TestApp\bin\Debug\net6.0\TestApp.deps.json
+E:\Asp.net core Certification\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json
+E:\Asp.net core Certification\TestApp\bin\Debug\net6.0\TestApp.dll
+E:\Asp.net core Certification\TestApp\bin\Debug\net6.0\TestApp.pdb
+E:\Asp.net core Certification\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+E:\Asp.net core Certification\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asp.net core Certification\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+E:\Asp.net core Certification\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+E:\Asp.net core Certification\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+E:\Asp.net core Certification\TestApp\obj\Debug\net6.0\TestApp.dll
+E:\Asp.net core Certification\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+E:\Asp.net core Certification\TestApp\obj\Debug\net6.0\TestApp.pdb
+E:\Asp.net core Certification\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
+E:\Asp.net core Certification\TestApp\obj\Debug\net6.0\ref\TestApp.dll
